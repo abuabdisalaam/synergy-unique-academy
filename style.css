@@ -89,7 +89,7 @@ nav{
 /* HERO */
 
 .hero{
-   background-image: linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url("images/students.jpg");
+   background-image: linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url("images/logo.png.png");
 
     display:flex;
     justify-content:center;
