@@ -89,11 +89,7 @@ nav{
 /* HERO */
 
 .hero{
-    background-image:linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),url("images/students.jpg");
-    background-size:cover;
-    background-position:center;
-    background-repeat:no-repeat;
-    min-height:80vh;
+   background-image: linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url("images/students.jpg");
 
     display:flex;
     justify-content:center;
